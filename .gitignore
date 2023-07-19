@@ -3,6 +3,8 @@
 # files
 /mock-sketch.png
 /techToBeApplied.txt
+/.env
+/helperfile.txt
 
 # dependencies
 /node_modules
