@@ -17,7 +17,7 @@ connectCloudinary();
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
-    origin: "*",
+    origin: "https://bloggers-blog-app.vercel.app",
     credentials:true
 }));
 
