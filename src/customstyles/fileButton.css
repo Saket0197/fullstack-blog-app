@@ -1,0 +1,7 @@
+input::file-selector-button{
+    content:'File';
+    padding:0;
+    border: 1px solid #2ed853;
+    background-color: #148f2eea;
+    width: 75%;
+}
