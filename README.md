@@ -12,7 +12,7 @@
 
 - Users will receive mail notifications upon registering and on creating a new blog
 
-- Unauthenticated Users can only read all the blogs.
+- Unauthenticated Users can only read the blogs.
 
 - New and updates blogs are shown at the top of the blogs list.
 
