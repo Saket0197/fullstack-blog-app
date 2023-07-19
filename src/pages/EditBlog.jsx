@@ -113,7 +113,7 @@ export default function EditBlog() {
                         autoComplete='off'
                         spellCheck='false'
                         autoFocus
-                      />
+                      placeholder='Blog Title (Max 150 Chars)'/>
                 </div>
 
                 <div className='md:flex-col md:items-start md:gap-2 md:px-4 w-full flex gap-24 h-10 items-center'>
@@ -125,7 +125,7 @@ export default function EditBlog() {
                       })} 
                       autoComplete='off'
                       spellCheck='false'
-                      />
+                      placeholder='Blog Summary (Max 350 Chars)'/>
                 </div>
 
                 <div className='md:px-4 md:gap-7 w-full flex gap-24 h-10 items-center'>
