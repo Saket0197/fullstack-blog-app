@@ -1,6 +1,7 @@
 # Fullstack-blog-app
 
 - **Review project at : https://bloggers-blog-app.vercel.app/**
+- **API Test - POSTMAN - https://documenter.getpostman.com/view/21428071/2s946o2oDR**
 
 ### The app supports the following functionalities.
 
