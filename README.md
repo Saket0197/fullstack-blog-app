@@ -14,7 +14,7 @@
 
 - Unauthenticated Users can only read the blogs.
 
-- New and updates blogs are shown at the top of the blogs list.
+- New and updated blogs are shown at the top of the blogs list.
 
 ## 🛠 Tech Used
 
@@ -24,4 +24,4 @@
 
 - **Database and Services:** MongoDB Atlas, Cloudinary for media management, Nodemailer for sending mail updates
 
-- **Deployment:** Vercel and Render
+- **Deployment:** Vercel(frontend) and Render(backend)
