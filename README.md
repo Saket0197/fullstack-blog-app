@@ -3,6 +3,11 @@
 - **Review project at : https://bloggers-blog-app.vercel.app/**
 - **API Test - POSTMAN - https://documenter.getpostman.com/view/21428071/2s946o2oDR**
 
+### Test User For Login
+username : TestUser2,  
+email : example.test@gmail.com,  
+password : MyPass@1212
+
 ### The app supports the following functionalities.
 
 - A user having an account can create and post a blog.
